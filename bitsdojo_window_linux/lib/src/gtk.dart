@@ -1,4 +1,4 @@
-import 'dart:ffi';
+import 'dart:ffi' hide Size;
 import 'package:ffi/ffi.dart';
 
 final _libgtk = DynamicLibrary.open('libgtk-3.so.0');

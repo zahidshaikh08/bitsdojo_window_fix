@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$MODULE_DIR$">
+      <excludeFolder url="file://$MODULE_DIR$/bitsdojo_window_windows/build" />
+      <excludeFolder url="file://$MODULE_DIR$/bitsdojo_window_windows/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/bitsdojo_window_windows/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/bitsdojo_window_linux/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/bitsdojo_window_linux/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/bitsdojo_window_linux/build" />
+      <excludeFolder url="file://$MODULE_DIR$/bitsdojo_window/example/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/bitsdojo_window/example/build" />
+      <excludeFolder url="file://$MODULE_DIR$/bitsdojo_window/example/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/bitsdojo_window/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/bitsdojo_window/build" />
+      <excludeFolder url="file://$MODULE_DIR$/bitsdojo_window/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/bitsdojo_window_platform_interface/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/bitsdojo_window_platform_interface/build" />
+      <excludeFolder url="file://$MODULE_DIR$/bitsdojo_window_platform_interface/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/bitsdojo_window_macos/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/bitsdojo_window_macos/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/bitsdojo_window_macos/build" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+</module>

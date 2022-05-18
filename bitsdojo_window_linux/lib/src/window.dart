@@ -1,4 +1,4 @@
-import 'dart:ffi';
+import 'dart:ffi' hide Size;
 import 'dart:ui';
 import 'package:flutter/painting.dart';
 
@@ -38,6 +38,7 @@ class GtkWindow extends DesktopWindow {
   Size? _minSize;
   Size? _maxSize;
   Alignment? _alignment;
+
   // size and position are cached during doWhenWindowReady
   // because the window operations for setting size/position
   // are scheduled and do not run immediately so the results

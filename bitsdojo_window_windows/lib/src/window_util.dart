@@ -1,4 +1,4 @@
-import 'dart:ffi';
+import 'dart:ffi' hide Size;
 import 'package:win32/win32.dart';
 import 'package:ffi/ffi.dart';
 

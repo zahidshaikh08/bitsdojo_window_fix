@@ -1,6 +1,6 @@
 library bitsdojo_window_windows;
 
-import 'dart:ffi';
+import 'dart:ffi' hide Size;
 
 final DynamicLibrary _appExecutable = DynamicLibrary.executable();
 
